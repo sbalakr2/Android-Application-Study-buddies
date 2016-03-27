@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3dc935d167d87727adc1c6f83c79c098abdf9f73.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/classes-2bdae678a74ba268c16a98d329f2bf253cdd29bc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/mail-06f3a0949af4b94608900b3f4090c950918bbf09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/Parse-1.8.3-4db03f7f914ed8f00d8ae641a2aa09b462f6c6b7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-57b856f95d4ff5eda9d5b0f139b2af1099b7c0b0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-0f110925be431a7c5703c83e41dbd00a358ceaa2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/additionnal-ae1452a15b6fe5c4ea5d3cd9001371be4bcfc605.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/activation-9b61841a98212b866de543df379505f8b2fdea3a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/build/intermediates/pre-dexed/debug/classes-58ce6192336fb755d15fa24a7ed8805396f66a33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

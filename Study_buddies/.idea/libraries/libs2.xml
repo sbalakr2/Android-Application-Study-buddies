@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/libs/additionnal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/libs/Parse-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/libs/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Study_buddies/app/libs/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
